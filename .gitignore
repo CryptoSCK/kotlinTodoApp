@@ -1,0 +1,59 @@
+# Kotlin/Android specific
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle files
+gradle/
+gradlew
+gradlew.bat
+
+# Log files
+*.log
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# macOS
+.DS_Store
+
+# IntelliJ
+*.iml
+.idea/
+
+# Dependency directories
+/node_modules
+/jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Kotlin test coverage
+build/reports/
+build/test-results/
