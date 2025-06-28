@@ -1,0 +1,52 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin
+*.class
+*.log
+
+# Dependency directories
+/node_modules
+/kotlin-js-store
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Build output
+/out
+/target
+/bin
+
+# Gradle
+.gradle
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Kotlin-specific
+kotlin-js-store/
+
+# Environment and sensitive files
+.env
+*.properties
+local.properties
+
+# Temporary files
+*.tmp
+*.bak
+*~
